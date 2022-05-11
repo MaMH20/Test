@@ -21,5 +21,17 @@ public  class Main
             mul *= i;
         }
         System.out.println(mul);
+        
+        
+        // 1 + 1/2²2 + 1/3²2 + 1/42²2
+        
+        
+        
+        double reihe = 0;
+        for (int i = 0; i<=10; i++)
+        { reihe += 1/math.pow()  // muss complet
+        
+        
+        }
     }
 }
