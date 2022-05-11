@@ -29,7 +29,7 @@ public  class Main
         
         double reihe = 0;
         for (int i = 0; i<=10; i++)
-        { reihe += 1/math.pow()  // muss complet
+        { reihe = reihe + 1/math.pow()  // muss complet
         
         
         }
