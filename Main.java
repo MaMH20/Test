@@ -1,3 +1,5 @@
+package Test;
+
 import static java.lang.Math.*;
 
 
@@ -32,7 +34,10 @@ public  class Main
         
         double reihe = 0;
         for (int i = 0; i<=10; i++)
-        { reihe += 1/math.pow(i/2)  // muss complet
+        
+        { reihe += 1/math.pow(i/2)  // so sieht besser aus
+        
+
         
         
         }
